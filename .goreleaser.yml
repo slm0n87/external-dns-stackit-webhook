@@ -1,5 +1,6 @@
 version: 2
 
+
 project_name: external-dns-stackit-webhook
 snapshot:
   version_template: '{{ .Tag }}-SNAPSHOT'
